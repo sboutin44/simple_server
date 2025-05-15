@@ -6,4 +6,5 @@ Testing Qodo-merge on a simple Python server.
 python3 -m venv myenv
 source myenv/bin/activate
 pip install flask
+pip install pycryptodome
 ```
